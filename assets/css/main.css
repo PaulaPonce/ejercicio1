@@ -1,0 +1,26 @@
+body{
+	color: #042201;
+	background-color: #C7D6B8;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	background-color: #BFD9A3;
+	margin: 0;
+	padding: .5em;
+}
+
+.bio, .suenos{
+	padding: 1em;
+}
+
+.img{
+	padding: .5em;
+}
+
+img{
+	box-shadow: 0 0 10px rgba(4, 34, 1, .8);
+}
+
+/*https://color.adobe.com/es/植物添景２-color-theme-9746959*/
